@@ -35,6 +35,7 @@ module.exports = {
         alias : {
             react : __dirname + '/node_modules/react',
             'react-select' : __dirname + '/node_modules/react-select',
+            'mosaic-intents' : __dirname + '/node_modules/mosaic-intents',
             'mosaic-adapters' : __dirname + '/node_modules/mosaic-adapters',
             'mosaic-dataset' : __dirname + '/node_modules/mosaic-dataset',
             'mosaic-dataset-index' : __dirname
