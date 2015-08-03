@@ -40,6 +40,11 @@ module.exports = {
             'mosaic-dataset' : __dirname + '/node_modules/mosaic-dataset',
             'mosaic-dataset-index' : __dirname
                     + '/node_modules/mosaic-dataset-index',
+            'mosaic-ui' : __dirname + '/node_modules/mosaic-ui',
+            'mosaic-ui-list' : __dirname + '/node_modules/mosaic-ui-list',
+            'mosaic-ui-app' : __dirname + '/node_modules/mosaic-ui-app',
+            'mosaic-ui-autocomplete' : __dirname
+                    + '/node_modules/mosaic-ui-autocomplete',
         // leaflet : __dirname +
         // '/node_modules/leaflet/dist/leaflet-src.js',
         // 'leaflet-css' : __dirname +
