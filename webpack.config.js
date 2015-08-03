@@ -45,6 +45,7 @@ module.exports = {
             'mosaic-ui-app' : __dirname + '/node_modules/mosaic-ui-app',
             'mosaic-ui-autocomplete' : __dirname
                     + '/node_modules/mosaic-ui-autocomplete',
+            'mosaic-ui-form' : __dirname + '/node_modules/mosaic-ui-form'
         // leaflet : __dirname +
         // '/node_modules/leaflet/dist/leaflet-src.js',
         // 'leaflet-css' : __dirname +
