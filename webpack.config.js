@@ -38,6 +38,8 @@ module.exports = {
             'mosaic-intents' : __dirname + '/node_modules/mosaic-intents',
             'mosaic-adapters' : __dirname + '/node_modules/mosaic-adapters',
             'mosaic-dataset' : __dirname + '/node_modules/mosaic-dataset',
+            'mosaic-dataset-geo' : __dirname
+                    + '/node_modules/mosaic-dataset-geo',
             'mosaic-dataset-index' : __dirname
                     + '/node_modules/mosaic-dataset-index',
             'mosaic-ui' : __dirname + '/node_modules/mosaic-ui',
@@ -45,7 +47,6 @@ module.exports = {
             'mosaic-ui-app' : __dirname + '/node_modules/mosaic-ui-app',
             'mosaic-ui-autocomplete' : __dirname
                     + '/node_modules/mosaic-ui-autocomplete',
-            'mosaic-ui-form' : __dirname + '/node_modules/mosaic-ui-form'
         // leaflet : __dirname +
         // '/node_modules/leaflet/dist/leaflet-src.js',
         // 'leaflet-css' : __dirname +
