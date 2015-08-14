@@ -45,7 +45,6 @@
     "classnames": "^2.1.3",
     "mosaic-adapters": "^0.2.4",
     "mosaic-app": "^0.2.0",
-    "mosaic-app-ui": "*",
     "mosaic-dataset": "^0.1.3",
     "mosaic-dataset-geo": "^0.1.7",
     "mosaic-dataset-index": "^0.1.2",
