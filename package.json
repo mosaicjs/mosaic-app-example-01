@@ -49,7 +49,7 @@
     "mosaic-dataset-geo": "^0.1.7",
     "mosaic-dataset-index": "^0.1.2",
     "mosaic-intents": "^0.2.6",
-    "mosaic-pathmapper": "*",
+    "mosaic-pathmapper": "^0.1.2",
     "mosaic-ui": "*",
     "mosaic-ui-app": "*",
     "mosaic-ui-autocomplete": "*",
